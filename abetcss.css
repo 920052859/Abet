@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{
+	background:#B7A7A7;
+}
+.logouni img{
+	position: absolute;
+  top:  40px;
+  right: 250px;
+}
+
+.logonay img{
+	position: absolute;
+  top:  650px;
+  left: 260px;
+}
+
+.titu{
+	position: absolute;
+	 display: inline-block;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+ 	top:  50px;
+	font-size: 40px;
+	color:black;
+}
+
+
+
+
